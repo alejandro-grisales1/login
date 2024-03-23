@@ -38,10 +38,10 @@
 
           <form action="" class="formulario__register">
             <h2>Regístrarse</h2>
-            <input type="text" placeholder="Nombre Completo" />
-            <input type="text" placeholder="Correo Electronico" />
-            <input type="text" placeholder="Usuario" />
-            <input type="password" placeholder="Contraseña" />
+            <input type="text" placeholder="Nombre Completo" name="nombre_completo"/>
+            <input type="text" placeholder="Correo Electronico" name="correo"/>
+            <input type="text" placeholder="Usuario" name="usuario"/>
+            <input type="password" placeholder="Contraseña" name="contraseña"/>
             <button>Regístrarse</button>
           </form>
         </div>
